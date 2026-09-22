@@ -1,8 +1,10 @@
 # Teesilm
 
-A faster, mobile-first PWA for Estonian road and weather conditions — offline-capable, with
-self-hosted vector maps and precise location-based hazard alerts (a radius around a saved point,
-instead of a coarse region/road-number subscription).
+A faster, mobile-first PWA for Estonian road and weather conditions: live road weather, hazards,
+roadworks and traffic cameras on one self-hosted vector map, from the same public Transpordiamet
+data as tarktee.ee. The map is free; a subscription adds live camera images, sign contents,
+weather station history, and push alerts for saved places (a radius, or a distance by road) and
+driving routes, instead of tarktee.ee's coarse region/road-number emails.
 
 **Live:** [roadconditions.drumandbytes.ee](https://roadconditions.drumandbytes.ee)
 
